@@ -1,5 +1,5 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
+    "name": "cornermonkey/test_open_api",
     "description": "This is a sample server Petstore server. For this sample, you can use the api key `special-key` to test the authorization filters.",
     "keywords": [
         "openapitools",
